@@ -1,5 +1,5 @@
 # Vaccination-Distribution
-Implementation
+# Implementation:
 In this I am using one mutex per table i.e n mutex totally.
 in this i will be using k threads each for one student and n threads each for companies and n threads each for vaccinating zone
 In my code every where stud_id is for student struct ,vaccine_input is for table and company_input for companies.
